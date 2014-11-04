@@ -9,3 +9,9 @@
 {"app":"PHP","message":"file_put_contents(\/var\/www\/html\/owncloud\/data\/.htaccess): failed to open stream: Permission denied at \/var\/www\/html\/owncloud\/lib\/private\/setup.php#156","level":3,"time":"2014-11-04T17:36:24+00:00"}
 {"app":"PHP","message":"file_put_contents(\/var\/www\/html\/owncloud\/data\/.htaccess): failed to open stream: Permission denied at \/var\/www\/html\/owncloud\/lib\/private\/setup.php#156","level":3,"time":"2014-11-04T17:36:40+00:00"}
 {"app":"PHP","message":"file_put_contents(\/var\/www\/html\/owncloud\/data\/.htaccess): failed to open stream: Permission denied at \/var\/www\/html\/owncloud\/lib\/private\/setup.php#156","level":3,"time":"2014-11-04T17:36:40+00:00"}
+{"app":"PHP","message":"Class 'OCA\\Documents\\Filter_Office' not found at \/var\/www\/html\/owncloud\/apps\/documents\/ajax\/download.php#19","level":3,"time":"2014-11-04T18:21:48+00:00"}
+{"app":"PHP","message":"Class 'OCA\\Documents\\Filter_Office' not found at \/var\/www\/html\/owncloud\/apps\/documents\/ajax\/download.php#19","level":3,"time":"2014-11-04T18:21:48+00:00"}
+{"app":"PHP","message":"Class 'OCA\\Documents\\Filter_Office' not found at \/var\/www\/html\/owncloud\/apps\/documents\/ajax\/download.php#19","level":3,"time":"2014-11-04T18:21:48+00:00"}
+{"app":"core","message":"App \"dashboard\" is using a not allowed call \"OC_Config::\". Installation refused.","level":3,"time":"2014-11-04T18:25:07+00:00"}
+{"app":"core","message":"App can't be installed because of not allowed code in the App","level":3,"time":"2014-11-04T18:25:07+00:00"}
+{"app":"core","message":"Failed to open archive when installing app","level":3,"time":"2014-11-04T18:25:31+00:00"}
