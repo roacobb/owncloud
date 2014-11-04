@@ -46,7 +46,7 @@
 	</div>
 	<header><div id="header">
 			<a href="<?php print_unescaped(link_to('', 'index.php')); ?>" title="" id="owncloud">
-				<div class="logo-icon svg"></div>
+				<div class="logo-icon png"></div>
 			</a>
 			<a href="#" class="menutoggle">
 				<div class="header-appname">
