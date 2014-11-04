@@ -140,7 +140,7 @@ input.userFilter {width: 200px;}
 	padding-bottom: 0px;
 }
 #app-navigation .appwarning {
-	background: #fcc;
+	background: charcoal;
 }
 #app-navigation.appwarning:hover {
 	background: #fbb;
